@@ -1,6 +1,7 @@
 Changelog
 =========
--   v10.0.0 Add persian; Update dependencies 
+-   v11.0.0 Changed module registration
+-   v10.0.0 Add persian; Update dependencies
 -   v9.0.0 fix of "Title Case error while accent on First Character for each word #72"
 -   v8.0.2 fix the fix; problems with release v8.0.1 with building speakingurl-min.js
 -   v8.0.1 merge #71 Improve sprockets fix
